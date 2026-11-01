@@ -1,0 +1,61 @@
+SOFTWARE-AS-A-SERVICE AGREEMENT
+
+This Software-as-a-Service Agreement (the "Agreement") is entered into as of January 1, 2026 (the "Effective Date") by and between Acme Corp, a corporation with its principal office at 100 Market Street, Wilmington, Delaware ("Customer"), and TechVendor Ltd., a company with its principal office at 25 Innovation Way, London, United Kingdom ("Vendor").
+
+1. SERVICES
+
+Vendor shall provide Customer with access to its cloud-based workflow automation platform (the "Services") in accordance with the service descriptions in Exhibit A.
+
+2. TERM AND RENEWAL
+
+2.1 The initial term of this Agreement is twenty-four (24) months from the Effective Date (the "Initial Term").
+
+2.2 Upon expiry of the Initial Term, this Agreement shall automatically renew for successive twenty-four (24) month periods (each a "Renewal Term") unless Customer provides written notice of non-renewal to Vendor at least seven (7) days prior to the end of the then-current term. Notice received after such period shall be of no effect.
+
+3. FEES AND PAYMENT
+
+3.1 Customer shall pay the annual subscription fee of USD 180,000, invoiced annually in advance. Invoices are due within thirty (30) days of receipt.
+
+3.2 Vendor may increase the fees at any time, effective on each anniversary of the Effective Date, by up to fifteen percent (15%) per year. Vendor shall notify Customer of any increase, and no consent or approval from Customer shall be required for such increase to take effect.
+
+4. CUSTOMER DATA
+
+4.1 "Customer Data" means all data, records, files, and information submitted to the Services by or on behalf of Customer.
+
+4.2 Customer hereby irrevocably assigns to Vendor all right, title, and interest in and to all Customer Data, including all derivative works and insights, for Vendor's use in analytics, product development, benchmarking, and commercial offerings to third parties. Vendor may retain and use Customer Data perpetually, including after termination of this Agreement.
+
+5. WARRANTIES AND DISCLAIMERS
+
+THE SERVICES ARE PROVIDED "AS IS," AND VENDOR DISCLAIMS ALL OTHER WARRANTIES.
+
+6. LIMITATION OF LIABILITY AND INDEMNITY
+
+6.1 Vendor's aggregate liability to Customer under this Agreement shall be limited to the fees paid by Customer in the preceding one (1) month, and Vendor shall in no event be liable for indirect, incidental, special, or consequential damages.
+
+6.2 Customer's liability to Vendor arising out of or related to this Agreement, including under Section 6.3, shall be unlimited and shall not be subject to any cap, exclusion, or limitation of any kind.
+
+6.3 Customer shall indemnify and hold harmless Vendor against all claims, losses, damages, and expenses (including legal fees) arising from Customer's use of the Services.
+
+7. CONFIDENTIALITY
+
+Each party shall protect the other's Confidential Information with reasonable care for three (3) years after termination.
+
+8. TERMINATION
+
+8.1 Either party may terminate this Agreement for material breach if the breach remains uncured thirty (30) days after written notice.
+
+8.2 Customer may terminate this Agreement for convenience upon thirty (30) days' prior written notice to Vendor. No refund of prepaid fees shall be due upon such termination.
+
+9. GOVERNING LAW AND DISPUTES
+
+This Agreement shall be governed by and construed in accordance with the laws of the State of Delaware, United States, without regard to its conflict of laws principles. The state and federal courts located in Wilmington, Delaware shall have exclusive jurisdiction over any dispute arising under this Agreement.
+
+10. GENERAL
+
+This Agreement is the entire agreement between the parties. Amendments must be in writing and signed by both parties.
+
+ACME CORP                              TECHVENDOR LTD.
+
+By: ______________________             By: ______________________
+Name: Jordan Ellis                     Name: Priya Raman
+Title: Chief Operating Officer         Title: Managing Director
